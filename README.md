@@ -1,2 +1,2 @@
-# POC-Shopping-Cart
-Shopping cart, External API, Reactive form
+# POC-Shopping-Cart from Udemy
+Shopping cart, Angular 9 small concepts
